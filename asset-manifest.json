@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/card-match-game/static/css/main.011d8a89.css",
-    "main.js": "/card-match-game/static/js/main.8469c002.js",
-    "static/js/787.6f41ac5d.chunk.js": "/card-match-game/static/js/787.6f41ac5d.chunk.js",
+    "main.css": "/card-match-game/static/css/main.76796d6c.css",
+    "main.js": "/card-match-game/static/js/main.9354c9a0.js",
     "static/media/board.png": "/card-match-game/static/media/board.20a1c481d0e6cd1d3196.png",
     "index.html": "/card-match-game/index.html",
-    "main.011d8a89.css.map": "/card-match-game/static/css/main.011d8a89.css.map",
-    "main.8469c002.js.map": "/card-match-game/static/js/main.8469c002.js.map",
-    "787.6f41ac5d.chunk.js.map": "/card-match-game/static/js/787.6f41ac5d.chunk.js.map"
+    "main.76796d6c.css.map": "/card-match-game/static/css/main.76796d6c.css.map",
+    "main.9354c9a0.js.map": "/card-match-game/static/js/main.9354c9a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.011d8a89.css",
-    "static/js/main.8469c002.js"
+    "static/css/main.76796d6c.css",
+    "static/js/main.9354c9a0.js"
   ]
 }
